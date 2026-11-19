@@ -1,0 +1,8 @@
+venv/
+media/
+entrega/
+__pycache__/
+*.exe
+*.bak
+dfs_timestamps
+.DS_Store
